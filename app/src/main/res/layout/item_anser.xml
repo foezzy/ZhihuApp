@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.allen.library.shape.ShapeRelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/rlRoot"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginHorizontal="10dp"
+    android:orientation="vertical"
+    app:shapeCornersRadius="8dp"
+    app:shapeSolidColor="@color/white_40">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:lineHeight="28dp"
+        android:padding="15dp"
+        android:text="14dp\nas\ass\nasdad"
+        android:textColor="@color/colorTextView"
+        android:textSize="16sp" />
+
+
+</com.allen.library.shape.ShapeRelativeLayout>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="gray">#DCDCDC</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="white_95">#F2ffffff</color>
+    <color name="white_90">#E6ffffff</color>
+    <color name="white_60">#99ffffff</color>
+    <color name="white_80">#ccffffff</color>
+    <color name="white_75">#bfffffff</color>
+    <color name="white_70">#b3ffffff</color>
+    <color name="white_65">#A6ffffff</color>
+    <color name="white_50">#7fffffff</color>
+    <color name="white_20">#33ffffff</color>
+    <color name="white_35">#59ffffff</color>
+    <color name="white_30">#4Dffffff</color>
+    <color name="white_40">#66ffffff</color>
+
+    <color name="colorSkeleton">#CCCFDE</color>
+    <color name="colorJourneyOutline">#B9BECC</color>
+    <color name="colorRipple">#E5E5Ef</color>
+    <color name="colorShadow">#0C000000</color>
+    <color name="colorOrange">#c55923</color>
+
+    <color name="colorTextView">#414441</color>
+
+    <color name="color_bg_1">#FAF9DE</color>
+    <color name="color_bg_2">#FFF2E2</color>
+    <color name="color_bg_3">#FDE6E0</color>
+    <color name="color_bg_4">#E3EDCD</color>
+    <color name="color_bg_5">#DCE2F1</color>
+    <color name="color_bg_6">#E9EBFE</color>
+    <color name="color_bg_7">#EAEAEF</color>
+
+    <string-array name="readingBgArr">
+        <item>#D8D3D6</item>
+        <item>#d3d7d4</item>
+        <item>#d9d6c3</item>
+        <item>#EAEAEF</item>
+    </string-array>
+
+</resources>
